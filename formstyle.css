@@ -1,0 +1,29 @@
+fieldset
+{
+    background-color:ghostwhite;
+    border-radius: 5px;
+    padding-left: 50px;
+    border-color: cornflowerblue;
+    
+}
+legend
+{
+    color: brown;
+}
+#submit-btn
+{
+    background-color: rgb(99, 201, 99);
+    border-radius: 5px;
+    border-style: solid;
+    height: 25px;
+    width: 75px;
+}
+#reset-btn
+{
+    background-color: rgb(231, 82, 82);
+    border-radius: 5px;
+    border-style: solid;
+    height: 25px;
+    width: 75px;
+}
+
